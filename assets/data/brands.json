@@ -1,31 +1,45 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "flex-well classic",
+        "name": "Flex-Well Classic",
+        "slug": "flex-well-classic",
+        "productCategory": "Flex-Well Classic",
+        "localThumb": "/assets/images/hersteller/flex-well-classic.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "flex-well exclusiv",
+        "name": "Flex-Well Exclusiv",
+        "slug": "flex-well-exclusiv",
+        "productCategory": "Flex-Well Exclusiv",
+        "localThumb": "/assets/images/hersteller/flex-well-exclusiv.webp"
     },
     {
-        "key": "sonstige",
-        "name": "Sonstige",
-        "slug": "sonstige",
-        "productCategory": "Sonstige",
-        "localThumb": "/assets/images/hersteller/sonstige.webp"
+        "key": "respekta premium",
+        "name": "Respekta Premium",
+        "slug": "respekta-premium",
+        "productCategory": "Respekta Premium",
+        "localThumb": "/assets/images/hersteller/respekta-premium.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "respekta",
+        "name": "Respekta",
+        "slug": "respekta",
+        "productCategory": "Respekta",
+        "localThumb": "/assets/images/hersteller/respekta.webp"
+    },
+    {
+        "key": "flex-well",
+        "name": "Flex-Well",
+        "slug": "flex-well",
+        "productCategory": "Flex-Well",
+        "localThumb": "/assets/images/hersteller/flex-well.webp"
+    },
+    {
+        "key": "menke classic",
+        "name": "Menke Classic",
+        "slug": "menke-classic",
+        "productCategory": "Menke Classic",
+        "localThumb": "/assets/images/hersteller/menke-classic.webp"
     },
     {
         "key": "obi",
@@ -35,52 +49,24 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "menke",
+        "name": "Menke",
+        "slug": "menke",
+        "productCategory": "Menke",
+        "localThumb": "/assets/images/hersteller/menke.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "menke premium",
+        "name": "Menke Premium",
+        "slug": "menke-premium",
+        "productCategory": "Menke Premium",
+        "localThumb": "/assets/images/hersteller/menke-premium.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "marinelli cucine",
+        "name": "Marinelli Cucine",
+        "slug": "marinelli-cucine",
+        "productCategory": "Marinelli Cucine",
+        "localThumb": "/assets/images/hersteller/marinelli-cucine.webp"
     }
 ]
