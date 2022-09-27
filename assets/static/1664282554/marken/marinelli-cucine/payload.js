@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/marinelli-cucine", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/marinelli-cucine-kuechenzeile-silvia-255-cm-eiche-weisz-marinelli-cucine-8783532-1.jpg":"\u002Fassets\u002Fimages\u002Fmarinelli-cucine-kuechenzeile-silvia-255-cm-eiche-weisz-marinelli-cucine-8783532-1.webp"}}],fetch:{},mutations:void 0});
