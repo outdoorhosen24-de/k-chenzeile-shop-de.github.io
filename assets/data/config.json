@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "k\u00fcchenzeile-shop.de",
+    "hostname": "https://www.k\u00fcchenzeile-shop.de/",
+    "email": "k\u00fcchenzeile-shop.desurrealnetworks.io",
+    "organization": "k\u00fcchenzeile-shop.de",
+    "logoText": "K\u00fcchenzeile-shop.de",
+    "title": "K\u00fcchenzeilen",
+    "subline": "Der Online Shop f\u00fcr K\u00fcchenzeilen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1434562",
+        "7372451",
+        "1712744",
+        "2696060",
+        "7053382",
+        "7845811"
+    ],
+    "winnerProducts": [
+        "8020539",
+        "5472154",
+        "5208277"
+    ],
+    "featuredCategories": [
+        "Landhausk\u00fcchen",
+        "Single-K\u00fcchen",
+        "Single-K\u00fcchen",
+        "Winkelk\u00fcchen",
+        "Winkelk\u00fcchen",
+        "Einbauk\u00fcchen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "K\u00fcchenzeilen",
-        "featureText": "Your featured text goes here",
+        "featureText": "K\u00fcchenzeilen sind die perfekte L\u00f6sung f\u00fcr kleine K\u00fcchen. Sie bieten alles, was man f\u00fcr die Zubereitung einer Mahlzeit ben\u00f6tigt, in einer kompakten Einheit. Die meisten K\u00fcchenzeilen verf\u00fcgen \u00fcber einen Herd, einen K\u00fchlschrank, einen Geschirrsp\u00fcler und eine Arbeitsfl\u00e4che. Sie sind in verschiedenen Stilen und Ausf\u00fchrungen erh\u00e4ltlich, so dass man die perfekte K\u00fcchenzeile f\u00fcr seine K\u00fcche finden kann.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "K\u00fcchenzeilen - die besten Angebote in einem Shop",
+            "metaDescription": "K\u00fcchenzeilen in verschiedenen Stilen und Ausf\u00fchrungen. K\u00fcchenzeilen f\u00fcr jeden Geschmack und jeden Geldbeutel.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "K\u00fcchenzeilen: Die besten Tipps f\u00fcr die perfekte K\u00fcche",
+                    "text": "Die K\u00fcchenzeile ist eine beliebte Wahl f\u00fcr die Einrichtung einer K\u00fcche. Sie bietet eine kompakte L\u00f6sung f\u00fcr diejenigen, die nicht viel Platz haben oder die ihre K\u00fcche gerne auf einer Zeile anordnen m\u00f6chten. K\u00fcchenzeilen sind in der Regel voll ausgestattet mit allen Ger\u00e4ten und Schr\u00e4nken, die man in einer K\u00fcche braucht. Sie sind auch in einer Vielzahl von Stilen und Designs erh\u00e4ltlich, so dass sie sich in jede K\u00fcche einf\u00fcgen lassen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "K\u00fcchenzeilen Shop - Dein Online Shop f\u00fcr K\u00fcchenzeilen",
+            "metaDescription": "K\u00fcchenzeilen Shop - Hier findest du alles f\u00fcr deine K\u00fcche. K\u00fcchenzeilen in verschiedenen Stilen und Gr\u00f6\u00dfen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "K\u00fcchenzeilen-Hersteller: K\u00fcchen in verschiedenen Stilen",
+            "metaDescription": "K\u00fcchenzeilen vom Hersteller kaufen. Gro\u00dfe Auswahl an K\u00fcchenzeilen in verschiedenen Stilen und Gr\u00f6\u00dfen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "K\u00fcchenzeilen: $PRODUKT",
+        "defaultMetaDescription": "K\u00fcchenzeilen in verschiedenen Stilen und Ausf\u00fchrungen. Finde die perfekte K\u00fcchenzeile f\u00fcr deine K\u00fcche. $PRODUKT von $HERSTELLER in der Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "K\u00fcchenzeilen: Die besten $KATEGORIE f\u00fcr deine K\u00fcche",
+        "defaultMetaDescription": "K\u00fcchenzeilen in verschiedenen Stilen und Ausf\u00fchrungen. Finde die perfekte K\u00fcchenzeile f\u00fcr deine K\u00fcche. $KATEGORIE",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "K\u00fcchenzeilen von $HERSTELLER \u2013 kompetente Beratung, gro\u00dfe Auswahl und schneller Versand. K\u00fcchenzeilen in unterschiedlichen Stilen und Ausf\u00fchrungen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "K\u00fcchenzeilen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "K\u00fcchenzeilen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "K\u00fcchenzeilen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
