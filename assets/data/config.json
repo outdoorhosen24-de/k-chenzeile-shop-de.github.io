@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
-    "domain": "k\u00fcchenzeile-shop.de",
-    "hostname": "https://www.k\u00fcchenzeile-shop.de/",
-    "email": "k\u00fcchenzeile-shop.desurrealnetworks.io",
-    "organization": "k\u00fcchenzeile-shop.de",
-    "logoText": "K\u00fcchenzeile-shop.de",
-    "title": "K\u00fcchenzeilen",
-    "subline": "Der Online Shop f\u00fcr K\u00fcchenzeilen",
+    "configIsReady": false,
+    "domain": "küchenzeile-shop.de",
+    "hostname": "https://www.küchenzeile-shop.de/",
+    "email": "küchenzeile-shop.desurrealnetworks.io",
+    "organization": "küchenzeile-shop.de",
+    "logoText": "Küchenzeile-shop.de",
+    "title": "Küchenzeilen",
+    "subline": "Der Online Shop für Küchenzeilen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "5208277"
     ],
     "featuredCategories": [
-        "Landhausk\u00fcchen",
-        "Single-K\u00fcchen",
-        "Single-K\u00fcchen",
-        "Winkelk\u00fcchen",
-        "Winkelk\u00fcchen",
-        "Einbauk\u00fcchen"
+        "Landhausküchen",
+        "Single-Küchen",
+        "Single-Küchen",
+        "Winkelküchen",
+        "Winkelküchen",
+        "Einbauküchen"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "K\u00fcchenzeilen",
-        "featureText": "K\u00fcchenzeilen sind die perfekte L\u00f6sung f\u00fcr kleine K\u00fcchen. Sie bieten alles, was man f\u00fcr die Zubereitung einer Mahlzeit ben\u00f6tigt, in einer kompakten Einheit. Die meisten K\u00fcchenzeilen verf\u00fcgen \u00fcber einen Herd, einen K\u00fchlschrank, einen Geschirrsp\u00fcler und eine Arbeitsfl\u00e4che. Sie sind in verschiedenen Stilen und Ausf\u00fchrungen erh\u00e4ltlich, so dass man die perfekte K\u00fcchenzeile f\u00fcr seine K\u00fcche finden kann.",
+        "mainKeyword": "Küchenzeilen",
+        "featureText": "Küchenzeilen sind die perfekte Lösung für kleine Küchen. Sie bieten alles, was man für die Zubereitung einer Mahlzeit benötigt, in einer kompakten Einheit. Die meisten Küchenzeilen verfügen über einen Herd, einen Kühlschrank, einen Geschirrspüler und eine Arbeitsfläche. Sie sind in verschiedenen Stilen und Ausführungen erhältlich, so dass man die perfekte Küchenzeile für seine Küche finden kann.",
         "index": {
-            "title": "K\u00fcchenzeilen - die besten Angebote in einem Shop",
-            "metaDescription": "K\u00fcchenzeilen in verschiedenen Stilen und Ausf\u00fchrungen. K\u00fcchenzeilen f\u00fcr jeden Geschmack und jeden Geldbeutel.",
+            "title": "Küchenzeilen - die besten Angebote in einem Shop",
+            "metaDescription": "Küchenzeilen in verschiedenen Stilen und Ausführungen. Küchenzeilen für jeden Geschmack und jeden Geldbeutel.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "K\u00fcchenzeilen: Die besten Tipps f\u00fcr die perfekte K\u00fcche",
-                    "text": "Die K\u00fcchenzeile ist eine beliebte Wahl f\u00fcr die Einrichtung einer K\u00fcche. Sie bietet eine kompakte L\u00f6sung f\u00fcr diejenigen, die nicht viel Platz haben oder die ihre K\u00fcche gerne auf einer Zeile anordnen m\u00f6chten. K\u00fcchenzeilen sind in der Regel voll ausgestattet mit allen Ger\u00e4ten und Schr\u00e4nken, die man in einer K\u00fcche braucht. Sie sind auch in einer Vielzahl von Stilen und Designs erh\u00e4ltlich, so dass sie sich in jede K\u00fcche einf\u00fcgen lassen."
+                    "title": "Küchenzeilen: Die besten Tipps für die perfekte Küche",
+                    "text": "Die Küchenzeile ist eine beliebte Wahl für die Einrichtung einer Küche. Sie bietet eine kompakte Lösung für diejenigen, die nicht viel Platz haben oder die ihre Küche gerne auf einer Zeile anordnen möchten. Küchenzeilen sind in der Regel voll ausgestattet mit allen Geräten und Schränken, die man in einer Küche braucht. Sie sind auch in einer Vielzahl von Stilen und Designs erhältlich, so dass sie sich in jede Küche einfügen lassen."
                 }
             ]
         },
         "shop": {
-            "title": "K\u00fcchenzeilen Shop - Dein Online Shop f\u00fcr K\u00fcchenzeilen",
-            "metaDescription": "K\u00fcchenzeilen Shop - Hier findest du alles f\u00fcr deine K\u00fcche. K\u00fcchenzeilen in verschiedenen Stilen und Gr\u00f6\u00dfen.",
+            "title": "Küchenzeilen Shop - Dein Online Shop für Küchenzeilen",
+            "metaDescription": "Küchenzeilen Shop - Hier findest du alles für deine Küche. Küchenzeilen in verschiedenen Stilen und Größen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "K\u00fcchenzeilen-Hersteller: K\u00fcchen in verschiedenen Stilen",
-            "metaDescription": "K\u00fcchenzeilen vom Hersteller kaufen. Gro\u00dfe Auswahl an K\u00fcchenzeilen in verschiedenen Stilen und Gr\u00f6\u00dfen.",
+            "title": "Küchenzeilen-Hersteller: Küchen in verschiedenen Stilen",
+            "metaDescription": "Küchenzeilen vom Hersteller kaufen. Große Auswahl an Küchenzeilen in verschiedenen Stilen und Größen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "K\u00fcchenzeilen: $PRODUKT",
-        "defaultMetaDescription": "K\u00fcchenzeilen in verschiedenen Stilen und Ausf\u00fchrungen. Finde die perfekte K\u00fcchenzeile f\u00fcr deine K\u00fcche. $PRODUKT von $HERSTELLER in der Kategorie $KATEGORIE.",
+        "defaultTitle": "Küchenzeilen: $PRODUKT",
+        "defaultMetaDescription": "Küchenzeilen in verschiedenen Stilen und Ausführungen. Finde die perfekte Küchenzeile für deine Küche. $PRODUKT von $HERSTELLER in der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "K\u00fcchenzeilen: Die besten $KATEGORIE f\u00fcr deine K\u00fcche",
-        "defaultMetaDescription": "K\u00fcchenzeilen in verschiedenen Stilen und Ausf\u00fchrungen. Finde die perfekte K\u00fcchenzeile f\u00fcr deine K\u00fcche. $KATEGORIE",
+        "defaultTitle": "Küchenzeilen: Die besten $KATEGORIE für deine Küche",
+        "defaultMetaDescription": "Küchenzeilen in verschiedenen Stilen und Ausführungen. Finde die perfekte Küchenzeile für deine Küche. $KATEGORIE",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "K\u00fcchenzeilen von $HERSTELLER \u2013 kompetente Beratung, gro\u00dfe Auswahl und schneller Versand. K\u00fcchenzeilen in unterschiedlichen Stilen und Ausf\u00fchrungen.",
+        "defaultMetaDescription": "Küchenzeilen von $HERSTELLER – kompetente Beratung, große Auswahl und schneller Versand. Küchenzeilen in unterschiedlichen Stilen und Ausführungen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "K\u00fcchenzeilen",
+            "linkTitle": "Küchenzeilen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "K\u00fcchenzeilen Shop",
+            "linkTitle": "Küchenzeilen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "K\u00fcchenzeilen Marken",
+            "linkTitle": "Küchenzeilen Marken",
             "publish": true
         },
         {
