@@ -51,12 +51,15 @@
             "title": "Küchenzeilen - die besten Angebote in einem Shop",
             "metaDescription": "Küchenzeilen in verschiedenen Stilen und Ausführungen. Küchenzeilen für jeden Geschmack und jeden Geldbeutel.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Küchenzeilen: Die besten Tipps für die perfekte Küche",
-                    "text": "Die Küchenzeile ist eine beliebte Wahl für die Einrichtung einer Küche. Sie bietet eine kompakte Lösung für diejenigen, die nicht viel Platz haben oder die ihre Küche gerne auf einer Zeile anordnen möchten. Küchenzeilen sind in der Regel voll ausgestattet mit allen Geräten und Schränken, die man in einer Küche braucht. Sie sind auch in einer Vielzahl von Stilen und Designs erhältlich, so dass sie sich in jede Küche einfügen lassen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Küchenzeilen: Die besten Tipps für die perfekte Küche",
+                        "text": "Die Küchenzeile ist eine beliebte Wahl für die Einrichtung einer Küche. Sie bietet eine kompakte Lösung für diejenigen, die nicht viel Platz haben oder die ihre Küche gerne auf einer Zeile anordnen möchten. Küchenzeilen sind in der Regel voll ausgestattet mit allen Geräten und Schränken, die man in einer Küche braucht. Sie sind auch in einer Vielzahl von Stilen und Designs erhältlich, so dass sie sich in jede Küche einfügen lassen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Küchenzeilen Shop - Dein Online Shop für Küchenzeilen",
