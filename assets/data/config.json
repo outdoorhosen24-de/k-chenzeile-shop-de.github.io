@@ -1,11 +1,11 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "küchenzeile-shop.de",
     "hostname": "https://www.küchenzeile-shop.de/",
     "email": "küchenzeile-shop.de@surrealnetworks.io",
     "organization": "küchenzeile-shop.de",
     "logoText": "Küchenzeile-shop.de",
-    "title": "Küchenzeilen",
+    "title": "Küchenzeilen Shop",
     "subline": "Der Online Shop für Küchenzeilen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Küchenzeilen",
-        "featureText": "Küchenzeilen sind die perfekte Lösung für kleine Küchen. Sie bieten alles, was man für die Zubereitung einer Mahlzeit benötigt, in einer kompakten Einheit. Die meisten Küchenzeilen verfügen über einen Herd, einen Kühlschrank, einen Geschirrspüler und eine Arbeitsfläche. Sie sind in verschiedenen Stilen und Ausführungen erhältlich, so dass man die perfekte Küchenzeile für seine Küche finden kann.",
+        "featureText": "Herzlich willkommen bei Küchenzeilen-Shop.de. Wir freuen uns, dir unser großes Sortiment an verschiedensten Küchenzeilen anzubieten. Wenn du nicht zu viel Platz hast, dann können wir dir mit unseren Miniküchen & Pantryküchen oder unseren Singleküchen garantiert ein Produkt für dich bieten. Nicht nur den Bedarf für große Küchen können wir mit unseren geräumigen Landhausküchen decken, sondern auch übers Eck, mit unseren Winkelküchen, bieten wir dir die optimale Lösung. Natürlich führen wir auch Einbauküchen. So bleibt kein Wunsch offen, was uns wichtig ist.",
         "index": {
-            "title": "Küchenzeilen - die besten Angebote in einem Shop",
-            "metaDescription": "Küchenzeilen in verschiedenen Stilen und Ausführungen. Küchenzeilen für jeden Geschmack und jeden Geldbeutel.",
+            "title": "Küchenzeilen | Günstig. Schnell. Einfach.",
+            "metaDescription": "Günstige Küchenzeilen in den verschiedensten Ausführungen. Egal ob Miniküchen & Pantryküchen, Einbauküchen, Winkelküchen, Landhausküchen oder Single-Küchen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Küchenzeilen Shop - Dein Online Shop für Küchenzeilen",
-            "metaDescription": "Küchenzeilen Shop - Hier findest du alles für deine Küche. Küchenzeilen in verschiedenen Stilen und Größen.",
+            "title": "Küchenzeilen Online Shop",
+            "metaDescription": "Finde die perfekte Küchenzeile für dein Zuhause. Egal ob Miniküchen & Pantryküchen, Einbauküchen, Winkelküchen, Landhausküchen oder Single-Küchen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Küchenzeilen-Hersteller: Küchen in verschiedenen Stilen",
-            "metaDescription": "Küchenzeilen vom Hersteller kaufen. Große Auswahl an Küchenzeilen in verschiedenen Stilen und Größen.",
+            "title": "Hochwertige Küchenzeilen | Hersteller",
+            "metaDescription": "Kaufe hochwertige Küchenzeilen von unseren Top Herstellern wie Flex-Well Exclusiv, Respekta Premium, OBI, Menke Premium oder Marinelli Cucine für dein Zuhause.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Küchenzeilen: $PRODUKT",
-        "defaultMetaDescription": "Küchenzeilen in verschiedenen Stilen und Ausführungen. Finde die perfekte Küchenzeile für deine Küche. $PRODUKT von $HERSTELLER in der Kategorie $KATEGORIE.",
+        "defaultTitle": "$PRODUKT | Küchenzeilen Shop",
+        "defaultMetaDescription": "Finde bei uns hochwertige Küchenzeilen wie unsere $PRODUKT von unserer Top Marke $HERSTELLER aus der Kategorie $KATEGORIE für dein Zuhause.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Küchenzeilen: Die besten $KATEGORIE für deine Küche",
-        "defaultMetaDescription": "Küchenzeilen in verschiedenen Stilen und Ausführungen. Finde die perfekte Küchenzeile für deine Küche. $KATEGORIE",
+        "defaultTitle": "$KATEGORIE für dein Zuhause ",
+        "defaultMetaDescription": "Günstige Küchenzeilen In unserem Online Shop. Wir bieten dir eine große Auswahl an $KATEGORIE. So findest du die Küchenzeile für dein Zuhause.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Küchenzeilen von $HERSTELLER – kompetente Beratung, große Auswahl und schneller Versand. Küchenzeilen in unterschiedlichen Stilen und Ausführungen.",
+        "defaultTitle": "Küchenzeilen von $HERSTELLER",
+        "defaultMetaDescription": "Große Auswahl zum günstigen Preis. Mit unseren hochwertigen Küchenzeilen von $HERSTELLER finden wir die Küchenzeile für dein Zuhause.",
         "defaultRobots": "index, follow",
         "brands": [
             {
