@@ -52,11 +52,31 @@
             "metaDescription": "Günstige Küchenzeilen in den verschiedensten Ausführungen. Egal ob Miniküchen & Pantryküchen, Einbauküchen, Winkelküchen, Landhausküchen oder Single-Küchen.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Küchenzeilen: Die besten Tipps für die perfekte Küche",
-                        "text": "Die Küchenzeile ist eine beliebte Wahl für die Einrichtung einer Küche. Sie bietet eine kompakte Lösung für diejenigen, die nicht viel Platz haben oder die ihre Küche gerne auf einer Zeile anordnen möchten. Küchenzeilen sind in der Regel voll ausgestattet mit allen Geräten und Schränken, die man in einer Küche braucht. Sie sind auch in einer Vielzahl von Stilen und Designs erhältlich, so dass sie sich in jede Küche einfügen lassen."
+                        "title": "Willkommen im Küchenzeile-Shop!",
+                        "text": "Herzlich willkommen auf Küchenzeile-Shop, Ihrem Online-Shop für hochwertige Küchenzeilen. Wir bieten Ihnen eine große Auswahl an verschiedenen Küchen-Modellen, von Miniküchen und Pantryküchen über Einbauküchen, Winkelküchen und Landhausküchen bis hin zu Single-Küchen. Unsere Küchenzeilen sind in verschiedenen Farben, Größen und Ausführungen erhältlich, so dass für jeden Geschmack und jeden Bedarf das Passende dabei ist. Wir legen großen Wert auf Qualität und Funktionalität, damit Sie lange Freude an Ihrer neuen Küche haben. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihre Traumküche!"
+                    },
+                    {
+                        "title": "Miniküchen & Pantryküchen",
+                        "text": "Entdecken Sie in unserer Kategorie <a href=\"/kategorie/minikuechen-pantrykuechen/\" title=\"Miniküchen & Pantryküchen\">Miniküchen & Pantryküchen</a> eine große Auswahl an kompakten Küchenlösungen für kleine Wohnungen oder als praktische Zusatzküche. Von minimalistischen Designs bis hin zu eleganten Ausführungen mit viel Stauraum bieten wir Ihnen eine breite Palette an Optionen. Unsere Miniküchen & Pantryküchen sind platzsparend und dennoch voll ausgestattet mit allen wichtigen Funktionen wie Kochfeld, Spüle und Kühlschrank. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Miniküche für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Einbauküchen",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/einbaukuechen/\" title=\"Einbauküchen\">Einbauküchen</a> bietet Ihnen eine große Auswahl an modernen und hochwertigen Küchen, die perfekt in Ihre vorhandene Wohnungseinrichtung integriert werden können. Von zeitlosen Designs bis hin zu trendigen Farben und Materialien finden Sie bei uns genau das, was Sie suchen. Unsere Einbauküchen sind mit hochwertigen Geräten und viel Stauraum ausgestattet, um Ihnen eine voll funktionsfähige Küche zu bieten. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihre Traumküche."
+                    },
+                    {
+                        "title": "Winkelküchen",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/winkelkuechen/\" title=\"Winkelküchen\">Winkelküchen</a> finden Sie eine große Auswahl an Küchenlösungen, die perfekt für Eckbereiche in Ihrer Wohnung geeignet sind. Von modernen Designs bis hin zu klassischen Ausführungen bieten wir Ihnen eine breite Palette an Optionen. Unsere Winkelküchen sind mit allen wichtigen Funktionen ausgestattet und bieten Ihnen viel Stauraum. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Winkelküche für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Landhausküchen",
+                        "text": "Sind Sie auf der Suche nach einer Küche mit besonderem Charme und rustikalem Flair? Dann sind <a href=\"/kategorie/landhauskuechen/\" title=\"Landhausküchen\">Landhausküchen</a> genau das Richtige für Sie! Im Online-Shop küchenzeile-shop.de finden Sie eine große Auswahl an Landhausküchen, die Ihnen den besonderen Charme eines Landhauses in Ihre eigenen vier Wände bringen. Ob Sie eine kleine oder große Küche bevorzugen, bei uns finden Sie garantiert die perfekte Küche für Ihr Zuhause. Entdecken Sie jetzt die vielfältigen Möglichkeiten und gestalten Sie Ihre Traumküche!"
+                    },
+                    {
+                        "title": "Single-Küchen",
+                        "text": "Sie leben alleine und benötigen eine praktische und platzsparende Küche? Dann sind <a href=\"/kategorie/single-kuechen/\" title=\"Single-Küchen\">Single-Küchen</a> genau das Richtige für Sie! Im Online-Shop küchenzeile-shop.de finden Sie eine große Auswahl an Single-Küchen, die perfekt auf die Bedürfnisse von Singles abgestimmt sind. Ob Sie eine kleine Nischenküche oder eine größere Küche bevorzugen, bei uns finden Sie garantiert die perfekte Küche für Ihre Bedürfnisse. Entdecken Sie jetzt die vielfältigen Möglichkeiten und gestalten Sie Ihre Traumküche!"
                     }
                 ]
             }
