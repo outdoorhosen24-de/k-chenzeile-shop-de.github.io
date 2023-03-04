@@ -2,35 +2,35 @@
     {
         "key": "miniküchen & pantryküchen",
         "name": "Miniküchen & Pantryküchen",
-        "slug": "minikuchen-pantrykuchen",
+        "slug": "minikuechen-pantrykuechen",
         "productCategory": "Miniküchen & Pantryküchen",
         "subCategories": []
     },
     {
         "key": "einbauküchen",
         "name": "Einbauküchen",
-        "slug": "einbaukuchen",
+        "slug": "einbaukuechen",
         "productCategory": "Einbauküchen",
         "subCategories": []
     },
     {
         "key": "winkelküchen",
         "name": "Winkelküchen",
-        "slug": "winkelkuchen",
+        "slug": "winkelkuechen",
         "productCategory": "Winkelküchen",
         "subCategories": []
     },
     {
         "key": "landhausküchen",
         "name": "Landhausküchen",
-        "slug": "landhauskuchen",
+        "slug": "landhauskuechen",
         "productCategory": "Landhausküchen",
         "subCategories": []
     },
     {
         "key": "single-küchen",
         "name": "Single-Küchen",
-        "slug": "single-kuchen",
+        "slug": "single-kuechen",
         "productCategory": "Single-Küchen",
         "subCategories": []
     }
