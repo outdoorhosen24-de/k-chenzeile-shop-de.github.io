@@ -1,184 +1,187 @@
 {
-    "configIsReady": true,
-    "domain": "küchenzeile-shop.de",
-    "hostname": "https://www.küchenzeile-shop.de/",
-    "email": "küchenzeile-shop.de@surrealnetworks.io",
-    "organization": "küchenzeile-shop.de",
-    "logoText": "Küchenzeile-shop.de",
-    "title": "Küchenzeilen Shop",
-    "subline": "Der Online Shop für Küchenzeilen",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "1434562",
-        "7372451",
-        "1712744",
-        "2696060",
-        "7053382",
-        "7845811"
-    ],
-    "winnerProducts": [
-        "8020539",
-        "5472154",
-        "5208277"
-    ],
-    "featuredCategories": [
-        "Landhausküchen",
-        "Single-Küchen",
-        "Single-Küchen",
-        "Winkelküchen",
-        "Winkelküchen",
-        "Einbauküchen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Küchenzeilen",
-        "featureText": "Herzlich willkommen bei Küchenzeilen-Shop.de. Wir freuen uns, dir unser großes Sortiment an verschiedensten Küchenzeilen anzubieten. Wenn du nicht zu viel Platz hast, dann können wir dir mit unseren Miniküchen & Pantryküchen oder unseren Singleküchen garantiert ein Produkt für dich bieten. Nicht nur den Bedarf für große Küchen können wir mit unseren geräumigen Landhausküchen decken, sondern auch übers Eck, mit unseren Winkelküchen, bieten wir dir die optimale Lösung. Natürlich führen wir auch Einbauküchen. So bleibt kein Wunsch offen, was uns wichtig ist.",
-        "index": {
-            "title": "Küchenzeilen | Günstig. Schnell. Einfach.",
-            "metaDescription": "Günstige Küchenzeilen in den verschiedensten Ausführungen. Egal ob Miniküchen & Pantryküchen, Einbauküchen, Winkelküchen, Landhausküchen oder Single-Küchen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen im Küchenzeile-Shop!",
-                        "text": "Herzlich willkommen auf Küchenzeile-Shop, Ihrem Online-Shop für hochwertige Küchenzeilen. Wir bieten Ihnen eine große Auswahl an verschiedenen Küchen-Modellen, von Miniküchen und Pantryküchen über Einbauküchen, Winkelküchen und Landhausküchen bis hin zu Single-Küchen. Unsere Küchenzeilen sind in verschiedenen Farben, Größen und Ausführungen erhältlich, so dass für jeden Geschmack und jeden Bedarf das Passende dabei ist. Wir legen großen Wert auf Qualität und Funktionalität, damit Sie lange Freude an Ihrer neuen Küche haben. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihre Traumküche!"
-                    },
-                    {
-                        "title": "Miniküchen & Pantryküchen",
-                        "text": "Entdecken Sie in unserer Kategorie <a href=\"/kategorie/minikuechen-pantrykuechen/\" title=\"Miniküchen & Pantryküchen\">Miniküchen & Pantryküchen</a> eine große Auswahl an kompakten Küchenlösungen für kleine Wohnungen oder als praktische Zusatzküche. Von minimalistischen Designs bis hin zu eleganten Ausführungen mit viel Stauraum bieten wir Ihnen eine breite Palette an Optionen. Unsere Miniküchen & Pantryküchen sind platzsparend und dennoch voll ausgestattet mit allen wichtigen Funktionen wie Kochfeld, Spüle und Kühlschrank. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Miniküche für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Einbauküchen",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/einbaukuechen/\" title=\"Einbauküchen\">Einbauküchen</a> bietet Ihnen eine große Auswahl an modernen und hochwertigen Küchen, die perfekt in Ihre vorhandene Wohnungseinrichtung integriert werden können. Von zeitlosen Designs bis hin zu trendigen Farben und Materialien finden Sie bei uns genau das, was Sie suchen. Unsere Einbauküchen sind mit hochwertigen Geräten und viel Stauraum ausgestattet, um Ihnen eine voll funktionsfähige Küche zu bieten. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihre Traumküche."
-                    },
-                    {
-                        "title": "Winkelküchen",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/winkelkuechen/\" title=\"Winkelküchen\">Winkelküchen</a> finden Sie eine große Auswahl an Küchenlösungen, die perfekt für Eckbereiche in Ihrer Wohnung geeignet sind. Von modernen Designs bis hin zu klassischen Ausführungen bieten wir Ihnen eine breite Palette an Optionen. Unsere Winkelküchen sind mit allen wichtigen Funktionen ausgestattet und bieten Ihnen viel Stauraum. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Winkelküche für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Landhausküchen",
-                        "text": "Sind Sie auf der Suche nach einer Küche mit besonderem Charme und rustikalem Flair? Dann sind <a href=\"/kategorie/landhauskuechen/\" title=\"Landhausküchen\">Landhausküchen</a> genau das Richtige für Sie! Im Online-Shop küchenzeile-shop.de finden Sie eine große Auswahl an Landhausküchen, die Ihnen den besonderen Charme eines Landhauses in Ihre eigenen vier Wände bringen. Ob Sie eine kleine oder große Küche bevorzugen, bei uns finden Sie garantiert die perfekte Küche für Ihr Zuhause. Entdecken Sie jetzt die vielfältigen Möglichkeiten und gestalten Sie Ihre Traumküche!"
-                    },
-                    {
-                        "title": "Single-Küchen",
-                        "text": "Sie leben alleine und benötigen eine praktische und platzsparende Küche? Dann sind <a href=\"/kategorie/single-kuechen/\" title=\"Single-Küchen\">Single-Küchen</a> genau das Richtige für Sie! Im Online-Shop küchenzeile-shop.de finden Sie eine große Auswahl an Single-Küchen, die perfekt auf die Bedürfnisse von Singles abgestimmt sind. Ob Sie eine kleine Nischenküche oder eine größere Küche bevorzugen, bei uns finden Sie garantiert die perfekte Küche für Ihre Bedürfnisse. Entdecken Sie jetzt die vielfältigen Möglichkeiten und gestalten Sie Ihre Traumküche!"
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Küchenzeilen Online Shop",
-            "metaDescription": "Finde die perfekte Küchenzeile für dein Zuhause. Egal ob Miniküchen & Pantryküchen, Einbauküchen, Winkelküchen, Landhausküchen oder Single-Küchen.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hochwertige Küchenzeilen | Hersteller",
-            "metaDescription": "Kaufe hochwertige Küchenzeilen von unseren Top Herstellern wie Flex-Well Exclusiv, Respekta Premium, OBI, Menke Premium oder Marinelli Cucine für dein Zuhause.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Küchenzeilen Shop",
-        "defaultMetaDescription": "Finde bei uns hochwertige Küchenzeilen wie unsere $PRODUKT von unserer Top Marke $HERSTELLER aus der Kategorie $KATEGORIE für dein Zuhause.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "k\u00fcchenzeile-shop.de",
+  "hostname": "https://www.k\u00fcchenzeile-shop.de/",
+  "email": "k\u00fcchenzeile-shop.de@surrealnetworks.io",
+  "organization": "k\u00fcchenzeile-shop.de",
+  "logoText": "K\u00fcchenzeile-shop.de",
+  "title": "K\u00fcchenzeilen Shop",
+  "subline": "Der Online Shop f\u00fcr K\u00fcchenzeilen",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "1434562",
+    "7372451",
+    "1712744",
+    "2696060",
+    "7053382",
+    "7845811"
+  ],
+  "winnerProducts": [
+    "8020539",
+    "5472154",
+    "5208277"
+  ],
+  "featuredCategories": [
+    "Landhausk\u00fcchen",
+    "Single-K\u00fcchen",
+    "Single-K\u00fcchen",
+    "Winkelk\u00fcchen",
+    "Winkelk\u00fcchen",
+    "Einbauk\u00fcchen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "K\u00fcchenzeilen",
+    "featureText": "Herzlich willkommen bei K\u00fcchenzeilen-Shop.de. Wir freuen uns, dir unser gro\u00dfes Sortiment an verschiedensten K\u00fcchenzeilen anzubieten. Wenn du nicht zu viel Platz hast, dann k\u00f6nnen wir dir mit unseren Minik\u00fcchen & Pantryk\u00fcchen oder unseren Singlek\u00fcchen garantiert ein Produkt f\u00fcr dich bieten. Nicht nur den Bedarf f\u00fcr gro\u00dfe K\u00fcchen k\u00f6nnen wir mit unseren ger\u00e4umigen Landhausk\u00fcchen decken, sondern auch \u00fcbers Eck, mit unseren Winkelk\u00fcchen, bieten wir dir die optimale L\u00f6sung. Nat\u00fcrlich f\u00fchren wir auch Einbauk\u00fcchen. So bleibt kein Wunsch offen, was uns wichtig ist.",
+    "index": {
+      "title": "K\u00fcchenzeilen | G\u00fcnstig. Schnell. Einfach.",
+      "metaDescription": "G\u00fcnstige K\u00fcchenzeilen in den verschiedensten Ausf\u00fchrungen. Egal ob Minik\u00fcchen & Pantryk\u00fcchen, Einbauk\u00fcchen, Winkelk\u00fcchen, Landhausk\u00fcchen oder Single-K\u00fcchen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen im K\u00fcchenzeile-Shop!",
+            "text": "Herzlich willkommen auf K\u00fcchenzeile-Shop, Ihrem Online-Shop f\u00fcr hochwertige K\u00fcchenzeilen. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen K\u00fcchen-Modellen, von Minik\u00fcchen und Pantryk\u00fcchen \u00fcber Einbauk\u00fcchen, Winkelk\u00fcchen und Landhausk\u00fcchen bis hin zu Single-K\u00fcchen. Unsere K\u00fcchenzeilen sind in verschiedenen Farben, Gr\u00f6\u00dfen und Ausf\u00fchrungen erh\u00e4ltlich, so dass f\u00fcr jeden Geschmack und jeden Bedarf das Passende dabei ist. Wir legen gro\u00dfen Wert auf Qualit\u00e4t und Funktionalit\u00e4t, damit Sie lange Freude an Ihrer neuen K\u00fcche haben. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie Ihre Traumk\u00fcche!"
+          },
+          {
+            "title": "Minik\u00fcchen & Pantryk\u00fcchen",
+            "text": "Entdecken Sie in unserer Kategorie <a href=\"/kategorie/minikuechen-pantrykuechen/\" title=\"Minik\u00fcchen & Pantryk\u00fcchen\">Minik\u00fcchen & Pantryk\u00fcchen</a> eine gro\u00dfe Auswahl an kompakten K\u00fcchenl\u00f6sungen f\u00fcr kleine Wohnungen oder als praktische Zusatzk\u00fcche. Von minimalistischen Designs bis hin zu eleganten Ausf\u00fchrungen mit viel Stauraum bieten wir Ihnen eine breite Palette an Optionen. Unsere Minik\u00fcchen & Pantryk\u00fcchen sind platzsparend und dennoch voll ausgestattet mit allen wichtigen Funktionen wie Kochfeld, Sp\u00fcle und K\u00fchlschrank. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie die perfekte Minik\u00fcche f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Einbauk\u00fcchen",
+            "text": "Unsere Kategorie <a href=\"/kategorie/einbaukuechen/\" title=\"Einbauk\u00fcchen\">Einbauk\u00fcchen</a> bietet Ihnen eine gro\u00dfe Auswahl an modernen und hochwertigen K\u00fcchen, die perfekt in Ihre vorhandene Wohnungseinrichtung integriert werden k\u00f6nnen. Von zeitlosen Designs bis hin zu trendigen Farben und Materialien finden Sie bei uns genau das, was Sie suchen. Unsere Einbauk\u00fcchen sind mit hochwertigen Ger\u00e4ten und viel Stauraum ausgestattet, um Ihnen eine voll funktionsf\u00e4hige K\u00fcche zu bieten. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie Ihre Traumk\u00fcche."
+          },
+          {
+            "title": "Winkelk\u00fcchen",
+            "text": "In unserer Kategorie <a href=\"/kategorie/winkelkuechen/\" title=\"Winkelk\u00fcchen\">Winkelk\u00fcchen</a> finden Sie eine gro\u00dfe Auswahl an K\u00fcchenl\u00f6sungen, die perfekt f\u00fcr Eckbereiche in Ihrer Wohnung geeignet sind. Von modernen Designs bis hin zu klassischen Ausf\u00fchrungen bieten wir Ihnen eine breite Palette an Optionen. Unsere Winkelk\u00fcchen sind mit allen wichtigen Funktionen ausgestattet und bieten Ihnen viel Stauraum. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie die perfekte Winkelk\u00fcche f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Landhausk\u00fcchen",
+            "text": "Sind Sie auf der Suche nach einer K\u00fcche mit besonderem Charme und rustikalem Flair? Dann sind <a href=\"/kategorie/landhauskuechen/\" title=\"Landhausk\u00fcchen\">Landhausk\u00fcchen</a> genau das Richtige f\u00fcr Sie! Im Online-Shop k\u00fcchenzeile-shop.de finden Sie eine gro\u00dfe Auswahl an Landhausk\u00fcchen, die Ihnen den besonderen Charme eines Landhauses in Ihre eigenen vier W\u00e4nde bringen. Ob Sie eine kleine oder gro\u00dfe K\u00fcche bevorzugen, bei uns finden Sie garantiert die perfekte K\u00fcche f\u00fcr Ihr Zuhause. Entdecken Sie jetzt die vielf\u00e4ltigen M\u00f6glichkeiten und gestalten Sie Ihre Traumk\u00fcche!"
+          },
+          {
+            "title": "Single-K\u00fcchen",
+            "text": "Sie leben alleine und ben\u00f6tigen eine praktische und platzsparende K\u00fcche? Dann sind <a href=\"/kategorie/single-kuechen/\" title=\"Single-K\u00fcchen\">Single-K\u00fcchen</a> genau das Richtige f\u00fcr Sie! Im Online-Shop k\u00fcchenzeile-shop.de finden Sie eine gro\u00dfe Auswahl an Single-K\u00fcchen, die perfekt auf die Bed\u00fcrfnisse von Singles abgestimmt sind. Ob Sie eine kleine Nischenk\u00fcche oder eine gr\u00f6\u00dfere K\u00fcche bevorzugen, bei uns finden Sie garantiert die perfekte K\u00fcche f\u00fcr Ihre Bed\u00fcrfnisse. Entdecken Sie jetzt die vielf\u00e4ltigen M\u00f6glichkeiten und gestalten Sie Ihre Traumk\u00fcche!"
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE für dein Zuhause ",
-        "defaultMetaDescription": "Günstige Küchenzeilen In unserem Online Shop. Wir bieten dir eine große Auswahl an $KATEGORIE. So findest du die Küchenzeile für dein Zuhause.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "K\u00fcchenzeilen Online Shop",
+      "metaDescription": "Finde die perfekte K\u00fcchenzeile f\u00fcr dein Zuhause. Egal ob Minik\u00fcchen & Pantryk\u00fcchen, Einbauk\u00fcchen, Winkelk\u00fcchen, Landhausk\u00fcchen oder Single-K\u00fcchen.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Küchenzeilen von $HERSTELLER",
-        "defaultMetaDescription": "Große Auswahl zum günstigen Preis. Mit unseren hochwertigen Küchenzeilen von $HERSTELLER finden wir die Küchenzeile für dein Zuhause.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Küchenzeilen",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Küchenzeilen Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Küchenzeilen Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hochwertige K\u00fcchenzeilen | Hersteller",
+      "metaDescription": "Kaufe hochwertige K\u00fcchenzeilen von unseren Top Herstellern wie Flex-Well Exclusiv, Respekta Premium, OBI, Menke Premium oder Marinelli Cucine f\u00fcr dein Zuhause.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | K\u00fcchenzeilen Shop",
+    "defaultMetaDescription": "Finde bei uns hochwertige K\u00fcchenzeilen wie unsere $PRODUKT von unserer Top Marke $HERSTELLER aus der Kategorie $KATEGORIE f\u00fcr dein Zuhause.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE f\u00fcr dein Zuhause ",
+    "defaultMetaDescription": "G\u00fcnstige K\u00fcchenzeilen In unserem Online Shop. Wir bieten dir eine gro\u00dfe Auswahl an $KATEGORIE. So findest du die K\u00fcchenzeile f\u00fcr dein Zuhause.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "K\u00fcchenzeilen von $HERSTELLER",
+    "defaultMetaDescription": "Gro\u00dfe Auswahl zum g\u00fcnstigen Preis. Mit unseren hochwertigen K\u00fcchenzeilen von $HERSTELLER finden wir die K\u00fcchenzeile f\u00fcr dein Zuhause.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "K\u00fcchenzeilen",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "K\u00fcchenzeilen Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "K\u00fcchenzeilen Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
